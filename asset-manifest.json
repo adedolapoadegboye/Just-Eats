@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adedolapoadegboye/Just-Eats/static/css/main.55a03536.css",
+    "main.js": "/adedolapoadegboye/Just-Eats/static/js/main.b0b7263a.js",
+    "static/media/logo.jpg": "/adedolapoadegboye/Just-Eats/static/media/logo.b4afa8e5e7928dc305d8.jpg",
+    "index.html": "/adedolapoadegboye/Just-Eats/index.html",
+    "main.55a03536.css.map": "/adedolapoadegboye/Just-Eats/static/css/main.55a03536.css.map",
+    "main.b0b7263a.js.map": "/adedolapoadegboye/Just-Eats/static/js/main.b0b7263a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a03536.css",
+    "static/js/main.b0b7263a.js"
+  ]
+}
