@@ -1,7 +1,29 @@
-# Just-Eats
-A landing page for a food delivery web service, built with React.js and TailwindCSS
+<h1 align="center" id="title">Just-Eats</h1>
 
-<!-- # Getting Started with Create React App
+<p align="center"><img src="https://socialify.git.ci/adedolapoadegboye/Just-Eats/image?description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+
+<p id="description">Just-Eats is a static landing page for a food delivery/pickup service (inspired by Uber-eat).</p>
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Responsive
+*   Interactive
+*   React State
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   TailwindCSS
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,4 +92,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
